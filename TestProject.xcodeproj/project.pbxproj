@@ -199,6 +199,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Hrishikesh  Pol";
 				TargetAttributes = {
+					3C6E983A1A1476A0005ED6C0 = {
+						DevelopmentTeam = 67822934AQ;
+					};
 					3C6E985B1A1476A1005ED6C0 = {
 						TestTargetID = 3C6E983A1A1476A0005ED6C0;
 					};
@@ -376,11 +379,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Hrishikesh  Pol (37Y3ZP5L76)";
+				CODE_SIGN_IDENTITY = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestProject/TestProject-Prefix.pch";
 				INFOPLIST_FILE = "TestProject/TestProject-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -390,11 +395,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Hrishikesh  Pol (37Y3ZP5L76)";
+				CODE_SIGN_IDENTITY = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestProject/TestProject-Prefix.pch";
 				INFOPLIST_FILE = "TestProject/TestProject-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -458,6 +465,7 @@
 				3C6E986F1A1476A1005ED6C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C6E98701A1476A1005ED6C0 /* Build configuration list for PBXNativeTarget "TestProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +474,7 @@
 				3C6E98721A1476A1005ED6C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
