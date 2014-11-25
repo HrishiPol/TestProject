@@ -381,11 +381,12 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
+				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestProject/TestProject-Prefix.pch";
 				INFOPLIST_FILE = "TestProject/TestProject-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "29b1103d-9943-403a-87c3-736cb7fbb009";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -397,11 +398,12 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iOS Development: Hrishikesh  Pol (55QA4D5X59)";
+				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestProject/TestProject-Prefix.pch";
 				INFOPLIST_FILE = "TestProject/TestProject-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "29b1103d-9943-403a-87c3-736cb7fbb009";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

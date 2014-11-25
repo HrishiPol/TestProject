@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>67822934AQ.com.synerzip.TestProject</string>
-	<key>com.apple.developer.default-data-protection</key>
-	<string>NSFileProtectionComplete</string>
+	<string>67822934AQ.com.synerzip.zimbox</string>
 	<key>com.apple.developer.team-identifier</key>
 	<string>67822934AQ</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>67822934AQ.com.synerzip.TestProject</string>
+		<string>67822934AQ.com.synerzip.zimbox</string>
 	</array>
 </dict>
 </plist>
